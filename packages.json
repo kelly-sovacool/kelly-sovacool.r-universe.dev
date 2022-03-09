@@ -1,0 +1,10 @@
+[
+    {
+        "package": "mikropml",
+        "url": "https://github.com/SchlossLab/mikropml"
+    },
+    {
+        "package": "schtools",
+        "url": "https://github.com/SchlossLab/schtools"
+    }
+]
