@@ -6,5 +6,7 @@
     {
         "package": "schtools",
         "url": "https://github.com/SchlossLab/schtools"
-    }
+    },
+        "package": "sovatools",
+        "url": "https://github.com/kelly-sovacool/sovatools"
 ]
