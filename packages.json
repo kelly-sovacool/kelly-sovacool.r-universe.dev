@@ -10,5 +10,9 @@
     {
         "package": "sovatools",
         "url": "https://github.com/kelly-sovacool/sovatools"
+    },
+    {
+        "package": "MOSuite",
+        "url": "https://github.com/CCBR/MOSuite"
     }
 ]
