@@ -14,5 +14,9 @@
     {
         "package": "MOSuite",
         "url": "https://github.com/CCBR/MOSuite"
+    },
+    {
+        "package": "MOObject",
+        "url": "https://github.com/CCBR/MOObject"
     }
 ]
